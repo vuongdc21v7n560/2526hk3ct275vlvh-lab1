@@ -2,9 +2,7 @@
 
 Học kỳ 3, Năm học: 2025-2026
 
-<<<<<<< HEAD
 **Họ tên**: Nguyễn Hoàng Vương.
-=======
 
 **MSSV**: DC21V7N560
 
